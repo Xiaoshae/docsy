@@ -1,6 +1,6 @@
 +++
-title = "小沙鳄Crocodile(Juyi LI)"
+title = "小沙鳄Crocodile(Junyi LI)"
 type = "community"
 +++
 
-Welcome to 小沙鳄Crocodile(Juyi LI) webSite.
+Welcome to 小沙鳄Crocodile(Junyi LI) webSite.
