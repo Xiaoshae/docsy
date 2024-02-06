@@ -1,5 +1,21 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Xiaoshae(Juyi LI)'
+baseURL = 'https://xiaoshae.com/'
+languageCode = 'zh-cn'
+defaultContentLanguage = "cn"
+defaultContentLanguageInSubdir = true
+
 
 theme = "docsy"
+
+[languages]
+[languages.cn]
+title = "小沙鳄Crocodile(Junyi LI)"
+languageName = "中文"
+contentDir = "content/zh-cn"
+weight = 1
+
+
+[languages.en]
+title = "XiaoshaeCrocodile(Junyi LI)"
+languageName = "English"
+contentDir = "content/en-us"
+weight = 2
